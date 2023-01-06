@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>CEO_Mobile</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CEO Mobile</shortDescription>
+        <value>+44-7867261531</value>
+    </labels>
+    <labels>
+        <fullName>Gold_Customer_Message</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Gold Customer Message</shortDescription>
+        <value>Great news! A customer has hit Gold. &lt;Account&gt; will get VIP treatment</value>
+    </labels>
+</CustomLabels>
